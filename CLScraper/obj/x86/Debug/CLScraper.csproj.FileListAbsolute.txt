@@ -1,0 +1,9 @@
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\bin\Debug\CLScraper.exe
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\bin\Debug\CLScraper.pdb
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\obj\x86\Debug\CLScraper.Form1.resources
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\obj\x86\Debug\CLScraper.Properties.Resources.resources
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\obj\x86\Debug\CLScraper.exe
+C:\Users\lgarcia\Desktop\CodeUtils\Tutorials\CLScraper\CLScraper\obj\x86\Debug\CLScraper.pdb
